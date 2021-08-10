@@ -65,5 +65,5 @@ seo:
       value: images/4.jpg
       relativeUrl: true
 layout: advanced
-excerpt: 'A though experiment to capture the unadultarated '
+excerpt: 'A though experiment to capture the unadulterated '
 ---
