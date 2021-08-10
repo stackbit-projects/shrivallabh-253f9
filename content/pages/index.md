@@ -10,11 +10,22 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >+
+      I am a techie, who loves to scribble. This blog is a thought experiment.
+
+
+      These blogs have an unadulterated view of my mind. I don't review them, I
+      don't rephrase them, I just write it once and publish. The basic spell
+      check and grammar check are taken care of by squiggly lines.
+
+
+      Oftentimes, when I come back to a post a few days after it has been
+      published, it is a refreshing experience.
+
+
+      The post has captured the exact frame of my mind rather than refined
+      thoughts. The resulting dissonance is the thought experiment.
+
     actions:
       - label: Contact Me
         url: /contact
